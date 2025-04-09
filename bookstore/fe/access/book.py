@@ -15,7 +15,6 @@ class Book:
     pub_year: str
     pages: int
     price: int
-    currency_unit: str
     binding: str
     isbn: str
     author_intro: str
